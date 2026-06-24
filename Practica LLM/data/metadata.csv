@@ -1,0 +1,7 @@
+id,fichero,titulo,profesor,area,carpeta,etiquetas,fecha,idioma,n_palabras
+clase-1,clase-1.txt,"Ingeniería con Agentes de Código: Claude Code, SDD, Skills y Hooks",Erick Risco,Fundamentos,Clase 1,agentes-codigo;claude-code;sdd;skills;subagentes;hooks;observabilidad,2026-06-16,es,32548
+clase-2,clase-2.txt,"Fundamentos de LLMs: Transformers, Pretraining y Prompt Engineering",Erick Risco,Fundamentos,Clase 2,tokens;embeddings;atencion;transformer;pretraining;prompt-engineering;dspy;mixture-of-experts;reasoning,2026-06-17,es,34470
+clase-3,clase-3.txt,"LLMOps, Fine-tuning, Alignment y Evaluación",Erick Risco,Construcción,Clase 3,fine-tuning;lora;qlora;distillation;alignment;rlhf;dpo;grpo;evaluacion;multimodal,2026-06-18,es,36329
+clase-4,clase-4.txt,"Frameworks, Embeddings, Vector Stores y RAG",Erick Risco,Construcción,Clase 4,embeddings;vector-store;rag;chunking;retrieval;reranking;knowledge-graph;ragas;guardrails;evaluacion,2026-06-19,es,33512
+clase-5,clase-5.txt,"Agentes: LangChain, LangGraph, MCP, ADK, A2A y n8n",Erick Risco,Producción,Clase 5,agentes;react;langchain;langgraph;mcp;adk;a2a;n8n;harness;rag,2026-06-22,es,32372
+clase-6,clase-6.txt,"Producción: Observabilidad, Evaluación, Safety, Coste y Despliegue",Erick Risco,Producción,Clase 6,observabilidad;langfuse;evaluacion;safety;red-team;coste;latencia;multimodal;deploy,2026-06-23,es,33603

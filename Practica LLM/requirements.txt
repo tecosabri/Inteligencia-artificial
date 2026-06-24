@@ -1,0 +1,23 @@
+# Núcleo RAG
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-ollama          # LLM open-weights local (generación + juez RAGAS)
+chromadb
+sentence-transformers     # embeddings abiertos (multilingüe, buen español)
+
+# Recuperación avanzada (self-query)
+lark
+
+# Evaluación
+ragas
+datasets
+
+# Demo
+gradio
+
+# Utilidades
+pandas
+python-dotenv
+ipykernel
